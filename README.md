@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Move.it
 Move.it is a powerful web application designed to streamline and simplify the process of managing transportation and logistics for both individuals and businesses. Whether you're moving personal belongings, coordinating large-scale shipments, or managing deliveries, Move.it provides a comprehensive platform to meet your transportation needs efficiently.
 
